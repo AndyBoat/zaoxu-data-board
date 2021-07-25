@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/zaoxu-data-board/static/css/main.1258fb05.chunk.css",
+    "main.js": "/zaoxu-data-board/static/js/main.cc8e827e.chunk.js",
+    "main.js.map": "/zaoxu-data-board/static/js/main.cc8e827e.chunk.js.map",
+    "runtime-main.js": "/zaoxu-data-board/static/js/runtime-main.3028d15e.js",
+    "runtime-main.js.map": "/zaoxu-data-board/static/js/runtime-main.3028d15e.js.map",
+    "static/css/2.7572b43f.chunk.css": "/zaoxu-data-board/static/css/2.7572b43f.chunk.css",
+    "static/js/2.9596a2de.chunk.js": "/zaoxu-data-board/static/js/2.9596a2de.chunk.js",
+    "static/js/2.9596a2de.chunk.js.map": "/zaoxu-data-board/static/js/2.9596a2de.chunk.js.map",
+    "static/js/3.f63b4f26.chunk.js": "/zaoxu-data-board/static/js/3.f63b4f26.chunk.js",
+    "static/js/3.f63b4f26.chunk.js.map": "/zaoxu-data-board/static/js/3.f63b4f26.chunk.js.map",
+    "index.html": "/zaoxu-data-board/index.html",
+    "static/css/2.7572b43f.chunk.css.map": "/zaoxu-data-board/static/css/2.7572b43f.chunk.css.map",
+    "static/css/main.1258fb05.chunk.css.map": "/zaoxu-data-board/static/css/main.1258fb05.chunk.css.map",
+    "static/js/2.9596a2de.chunk.js.LICENSE.txt": "/zaoxu-data-board/static/js/2.9596a2de.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3028d15e.js",
+    "static/css/2.7572b43f.chunk.css",
+    "static/js/2.9596a2de.chunk.js",
+    "static/css/main.1258fb05.chunk.css",
+    "static/js/main.cc8e827e.chunk.js"
+  ]
+}
