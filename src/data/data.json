@@ -12981,6 +12981,1046 @@
             "gene": "GFAP ",
             "article": "Glia–neuron interactions in the mammalian retina",
             "method": "ISH/qPCR"
+        },
+        {
+            "species": "lizard",
+            "type": "Photoreceptor cell",
+            "subtype": "Cone-Photoreceptor cell",
+            "gene": "PDE6C",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "lizard",
+            "type": "Photoreceptor cell",
+            "subtype": "Cone-Photoreceptor cell",
+            "gene": "PDE6H",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "lizard",
+            "type": "Photoreceptor cell",
+            "subtype": "Cone-Photoreceptor cell",
+            "gene": "GRK7",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "lizard",
+            "type": "Photoreceptor cell",
+            "subtype": "Cone-Photoreceptor cell",
+            "gene": "ARR3",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "lizard",
+            "type": "Photoreceptor cell",
+            "subtype": "Cone-Photoreceptor cell",
+            "gene": "GNAT2",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "lizard",
+            "type": "Photoreceptor cell",
+            "subtype": "Cone-Photoreceptor cell",
+            "gene": "GUK1",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "lizard",
+            "type": "Photoreceptor cell",
+            "subtype": "Cone-Photoreceptor cell",
+            "gene": "GNGT2",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "lizard",
+            "type": "Bipolar cell",
+            "subtype": "Bipolar cell",
+            "gene": "LRRTM1",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "lizard",
+            "type": "Bipolar cell",
+            "subtype": "Bipolar cell",
+            "gene": "VSX1",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "lizard",
+            "type": "Bipolar cell",
+            "subtype": "Bipolar cell",
+            "gene": "GRIK1",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "lizard",
+            "type": "Amacrine cell",
+            "subtype": "Amacrine cell",
+            "gene": "MYT1L",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "lizard",
+            "type": "Amacrine cell",
+            "subtype": "Amacrine cell",
+            "gene": "GAD2",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "lizard",
+            "type": "Amacrine cell",
+            "subtype": "Amacrine cell",
+            "gene": "MEIS2",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "lizard",
+            "type": "Amacrine cell",
+            "subtype": "Amacrine cell",
+            "gene": "SLC6A9",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "lizard",
+            "type": "Retinal ganglion cell",
+            "subtype": "Retinal ganglion cell",
+            "gene": "L1CAM",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "lizard",
+            "type": "Retinal ganglion cell",
+            "subtype": "Retinal ganglion cell",
+            "gene": "SLC17A6",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "lizard",
+            "type": "Retinal ganglion cell",
+            "subtype": "Retinal ganglion cell",
+            "gene": "NEFL",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "lizard",
+            "type": "Retinal ganglion cell",
+            "subtype": "Retinal ganglion cell",
+            "gene": "NEFM",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "lizard",
+            "type": "Retinal ganglion cell",
+            "subtype": "Retinal ganglion cell",
+            "gene": "NEFH",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "lizard",
+            "type": "Muller cell",
+            "subtype": "Muller cell",
+            "gene": "GLUL",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "lizard",
+            "type": "Muller cell",
+            "subtype": "Muller cell",
+            "gene": "VIM",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "lizard",
+            "type": "Muller cell",
+            "subtype": "Muller cell",
+            "gene": "SOX9",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "lizard",
+            "type": "Muller cell",
+            "subtype": "Muller cell",
+            "gene": "RLBP1",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "lizard",
+            "type": "Horizontal cell",
+            "subtype": "Horizontal cell",
+            "gene": "PROX1",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "lizard",
+            "type": "Retinal pigment epithelium",
+            "subtype": "Retinal pigment epithelium",
+            "gene": "RPE65",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "lizard",
+            "type": "Retinal pigment epithelium",
+            "subtype": "Retinal pigment epithelium",
+            "gene": "PMEL",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "lizard",
+            "type": "Retinal pigment epithelium",
+            "subtype": "Retinal pigment epithelium",
+            "gene": "MERTK",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "lizard",
+            "type": "Astrocyte",
+            "subtype": "Astrocyte",
+            "gene": "GFAP",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "lizard",
+            "type": "Astrocyte",
+            "subtype": "Astrocyte",
+            "gene": "VIM",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "lizard",
+            "type": "Astrocyte",
+            "subtype": "Astrocyte",
+            "gene": "DBI",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "lizard",
+            "type": "Microglia",
+            "subtype": "Microglia",
+            "gene": "CSF1R",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "lizard",
+            "type": "Microglia",
+            "subtype": "Microglia",
+            "gene": "PTPRC",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pigeon",
+            "type": "Retinal ganglion cell",
+            "subtype": "Retinal ganglion cell",
+            "gene": "NEFM",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pigeon",
+            "type": "Retinal ganglion cell",
+            "subtype": "Retinal ganglion cell",
+            "gene": "GAP43",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pigeon",
+            "type": "Retinal ganglion cell",
+            "subtype": "Retinal ganglion cell",
+            "gene": "NRN1",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pigeon",
+            "type": "Retinal pigment epithelium",
+            "subtype": "Retinal pigment epithelium",
+            "gene": "RPE65",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pigeon",
+            "type": "Retinal pigment epithelium",
+            "subtype": "Retinal pigment epithelium",
+            "gene": "IGFBP5",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pigeon",
+            "type": "Muller cell",
+            "subtype": "Muller cell",
+            "gene": "GLUL",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pigeon",
+            "type": "Muller cell",
+            "subtype": "Muller cell",
+            "gene": "VIM",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pigeon",
+            "type": "Microglia",
+            "subtype": "Microglia",
+            "gene": "CSF1R",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pigeon",
+            "type": "Microglia",
+            "subtype": "Microglia",
+            "gene": "PTPRC",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pigeon",
+            "type": "Amacrine cell",
+            "subtype": "Amacrine cell",
+            "gene": "MEIS2",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pigeon",
+            "type": "Amacrine cell",
+            "subtype": "Amacrine cell",
+            "gene": "GAD2",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pigeon",
+            "type": "Amacrine cell",
+            "subtype": "Amacrine cell",
+            "gene": "MYT1L",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pigeon",
+            "type": "Bipolar cell",
+            "subtype": "Bipolar cell",
+            "gene": "ISL1",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pigeon",
+            "type": "Bipolar cell",
+            "subtype": "Bipolar cell",
+            "gene": "VSX2",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pigeon",
+            "type": "Bipolar cell",
+            "subtype": "Bipolar cell",
+            "gene": "GRIK1",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pigeon",
+            "type": "Horizontal cell",
+            "subtype": "Horizontal cell",
+            "gene": "LHX1",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pigeon",
+            "type": "Horizontal cell",
+            "subtype": "Horizontal cell",
+            "gene": "SLC4A5",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pigeon",
+            "type": "Horizontal cell",
+            "subtype": "Horizontal cell",
+            "gene": "PROX1",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pigeon",
+            "type": "Photoreceptor cell",
+            "subtype": "Cone-Photoreceptor cell",
+            "gene": "CNGA3",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pigeon",
+            "type": "Photoreceptor cell",
+            "subtype": "Cone-Photoreceptor cell",
+            "gene": "GNAT2",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pigeon",
+            "type": "Photoreceptor cell",
+            "subtype": "Cone-Photoreceptor cell",
+            "gene": "PDE6H",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pigeon",
+            "type": "Photoreceptor cell",
+            "subtype": "Rod-Photoreceptor cell",
+            "gene": "RHO",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pigeon",
+            "type": "Photoreceptor cell",
+            "subtype": "Rod-Photoreceptor cell",
+            "gene": "SLC24A1",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pigeon",
+            "type": "Photoreceptor cell",
+            "subtype": "Rod-Photoreceptor cell",
+            "gene": "ABCA4",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pig",
+            "type": "Photoreceptor cell",
+            "subtype": "Rod-Photoreceptor cell",
+            "gene": "PDE6A",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pig",
+            "type": "Photoreceptor cell",
+            "subtype": "Rod-Photoreceptor cell",
+            "gene": "CNGA1",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pig",
+            "type": "Photoreceptor cell",
+            "subtype": "Rod-Photoreceptor cell",
+            "gene": "PDE6B",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pig",
+            "type": "Photoreceptor cell",
+            "subtype": "Cone-Photoreceptor cell",
+            "gene": "PDE6C",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pig",
+            "type": "Photoreceptor cell",
+            "subtype": "Cone-Photoreceptor cell",
+            "gene": "GNGA3",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pig",
+            "type": "Photoreceptor cell",
+            "subtype": "Cone-Photoreceptor cell",
+            "gene": "ARR3",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pig",
+            "type": "Horizontal cell",
+            "subtype": "Horizontal cell",
+            "gene": "LHX1",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pig",
+            "type": "Horizontal cell",
+            "subtype": "Horizontal cell",
+            "gene": "PROX1",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pig",
+            "type": "Horizontal cell",
+            "subtype": "Horizontal cell",
+            "gene": "TFAP2B",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pig",
+            "type": "Bipolar cell",
+            "subtype": "Bipolar cell",
+            "gene": "VSX1",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pig",
+            "type": "Bipolar cell",
+            "subtype": "Bipolar cell",
+            "gene": "TMEM215",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pig",
+            "type": "Bipolar cell",
+            "subtype": "Bipolar cell",
+            "gene": "GNG13",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pig",
+            "type": "Bipolar cell",
+            "subtype": "Bipolar cell",
+            "gene": "GRIK1",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pig",
+            "type": "Amacrine cell",
+            "subtype": "Amacrine cell",
+            "gene": "GAD1",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pig",
+            "type": "Amacrine cell",
+            "subtype": "Amacrine cell",
+            "gene": "GAD2",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pig",
+            "type": "Amacrine cell",
+            "subtype": "Amacrine cell",
+            "gene": "MYT1L",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pig",
+            "type": "Retinal ganglion cell",
+            "subtype": "Retinal ganglion cell",
+            "gene": "NEFM",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pig",
+            "type": "Retinal ganglion cell",
+            "subtype": "Retinal ganglion cell",
+            "gene": "STMN2",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pig",
+            "type": "Retinal ganglion cell",
+            "subtype": "Retinal ganglion cell",
+            "gene": "SLC17A6",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pig",
+            "type": "Muller cell",
+            "subtype": "Muller cell",
+            "gene": "RGR",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pig",
+            "type": "Muller cell",
+            "subtype": "Muller cell",
+            "gene": "RLBP1",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pig",
+            "type": "Muller cell",
+            "subtype": "Muller cell",
+            "gene": "STMN2",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pig",
+            "type": "Muller cell",
+            "subtype": "Muller cell",
+            "gene": "GAP43",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pig",
+            "type": "Muller cell",
+            "subtype": "Muller cell",
+            "gene": "RBPMS",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pig",
+            "type": "Astrocyte",
+            "subtype": "Astrocyte",
+            "gene": "GFAP",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pig",
+            "type": "Astrocyte",
+            "subtype": "Astrocyte",
+            "gene": "FABP7",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pig",
+            "type": "Astrocyte",
+            "subtype": "Astrocyte",
+            "gene": "S100B",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pig",
+            "type": "Astrocyte",
+            "subtype": "Astrocyte",
+            "gene": "DBI",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pig",
+            "type": "Microglia",
+            "subtype": "Microglia",
+            "gene": "CSF1R",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pig",
+            "type": "Microglia",
+            "subtype": "Microglia",
+            "gene": "PTPRC",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pig",
+            "type": "Microglia",
+            "subtype": "Microglia",
+            "gene": "C1QA",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "pig",
+            "type": "Microglia",
+            "subtype": "Microglia",
+            "gene": "AIF1",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "sheep",
+            "type": "Photoreceptor cell",
+            "subtype": "Rod-Photoreceptor cell",
+            "gene": "PDE6A",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "sheep",
+            "type": "Photoreceptor cell",
+            "subtype": "Rod-Photoreceptor cell",
+            "gene": "CNGA1",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "sheep",
+            "type": "Photoreceptor cell",
+            "subtype": "Rod-Photoreceptor cell",
+            "gene": "RHO",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "sheep",
+            "type": "Photoreceptor cell",
+            "subtype": "Rod-Photoreceptor cell",
+            "gene": "PDE6B",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "sheep",
+            "type": "Photoreceptor cell",
+            "subtype": "Cone-Photoreceptor cell",
+            "gene": "PDE6C",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "sheep",
+            "type": "Photoreceptor cell",
+            "subtype": "Cone-Photoreceptor cell",
+            "gene": "CNGA3",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "sheep",
+            "type": "Photoreceptor cell",
+            "subtype": "Cone-Photoreceptor cell",
+            "gene": "ARR3",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "sheep",
+            "type": "Photoreceptor cell",
+            "subtype": "Cone-Photoreceptor cell",
+            "gene": "GNAT2",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "sheep",
+            "type": "Photoreceptor cell",
+            "subtype": "Cone-Photoreceptor cell",
+            "gene": "PDE6H",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "sheep",
+            "type": "Horizontal cell",
+            "subtype": "Horizontal cell",
+            "gene": "TFAP2B",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "sheep",
+            "type": "Horizontal cell",
+            "subtype": "Horizontal cell",
+            "gene": "PROX1",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "sheep",
+            "type": "Horizontal cell",
+            "subtype": "Horizontal cell",
+            "gene": "SNAP25",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "sheep",
+            "type": "Bipolar cell",
+            "subtype": "Bipolar cell",
+            "gene": "GNG13",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "sheep",
+            "type": "Bipolar cell",
+            "subtype": "Bipolar cell",
+            "gene": "ISL1",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "sheep",
+            "type": "Bipolar cell",
+            "subtype": "Bipolar cell",
+            "gene": "GRIK1",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "sheep",
+            "type": "Bipolar cell",
+            "subtype": "Bipolar cell",
+            "gene": "VSX1",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "sheep",
+            "type": "Bipolar cell",
+            "subtype": "Bipolar cell",
+            "gene": "TMEM215",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "sheep",
+            "type": "Amacrine cell",
+            "subtype": "Amacrine cell",
+            "gene": "MEIS2",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "sheep",
+            "type": "Amacrine cell",
+            "subtype": "Amacrine cell",
+            "gene": "GAD1",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "sheep",
+            "type": "Amacrine cell",
+            "subtype": "Amacrine cell",
+            "gene": "GAD2",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "sheep",
+            "type": "Amacrine cell",
+            "subtype": "Amacrine cell",
+            "gene": "TFAP2A",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "sheep",
+            "type": "Retinal ganglion cell",
+            "subtype": "Retinal ganglion cell",
+            "gene": "NEFM",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "sheep",
+            "type": "Retinal ganglion cell",
+            "subtype": "Retinal ganglion cell",
+            "gene": "STMN2",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "sheep",
+            "type": "Retinal ganglion cell",
+            "subtype": "Retinal ganglion cell",
+            "gene": "SLC17A6",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "sheep",
+            "type": "Retinal ganglion cell",
+            "subtype": "Retinal ganglion cell",
+            "gene": "GAP43",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "sheep",
+            "type": "Retinal ganglion cell",
+            "subtype": "Retinal ganglion cell",
+            "gene": "RBPMS",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "sheep",
+            "type": "Muller cell",
+            "subtype": "Muller cell",
+            "gene": "GLUL",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "sheep",
+            "type": "Muller cell",
+            "subtype": "Muller cell",
+            "gene": "APOE",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "sheep",
+            "type": "Muller cell",
+            "subtype": "Muller cell",
+            "gene": "VIM",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "sheep",
+            "type": "Muller cell",
+            "subtype": "Muller cell",
+            "gene": "RGR",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "sheep",
+            "type": "Muller cell",
+            "subtype": "Muller cell",
+            "gene": "CLU",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "sheep",
+            "type": "Astrocyte",
+            "subtype": "Astrocyte",
+            "gene": "S100B",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "sheep",
+            "type": "Astrocyte",
+            "subtype": "Astrocyte",
+            "gene": "DBI",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "sheep",
+            "type": "Astrocyte",
+            "subtype": "Astrocyte",
+            "gene": "FABP7",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "sheep",
+            "type": "Astrocyte",
+            "subtype": "Astrocyte",
+            "gene": "GFAP",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "sheep",
+            "type": "Microglia",
+            "subtype": "Microglia",
+            "gene": "CSF1R",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "sheep",
+            "type": "Microglia",
+            "subtype": "Microglia",
+            "gene": "PTPRC",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "sheep",
+            "type": "Microglia",
+            "subtype": "Microglia",
+            "gene": "C1QA",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "sheep",
+            "type": "Microglia",
+            "subtype": "Microglia",
+            "gene": "TMEM119",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "sheep",
+            "type": "Retinal pigment epithelium",
+            "subtype": "Retinal pigment epithelium",
+            "gene": "PRE65",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "sheep",
+            "type": "Retinal pigment epithelium",
+            "subtype": "Retinal pigment epithelium",
+            "gene": "BEST1",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
+        },
+        {
+            "species": "sheep",
+            "type": "Retinal pigment epithelium",
+            "subtype": "Retinal pigment epithelium",
+            "gene": "GPNMB",
+            "article": "Retina Cell Atlases of Multiple Species and an Online Platform for Retina Cell-Type Markers",
+            "method": "scRNA-seq"
         }
     ]
 }
